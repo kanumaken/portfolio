@@ -1,0 +1,8 @@
+[0422/205216.170:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0422/205216.173:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Easthas\Reports\Dump\settings.dat: Access is denied. (0x5)
+[0422/205334.977:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0422/205334.979:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Easthas\Reports\Dump\settings.dat: Access is denied. (0x5)
+[0422/205555.496:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0422/205555.498:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Easthas\Reports\Dump\settings.dat: Access is denied. (0x5)
+[0426/221621.486:ERROR:registration_protocol_win.cc(130)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0426/221621.622:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\Easthas\Reports\Dump\settings.dat: Access is denied. (0x5)
